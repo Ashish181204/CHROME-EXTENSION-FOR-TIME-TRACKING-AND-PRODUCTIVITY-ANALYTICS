@@ -35,3 +35,8 @@ File Path Errors: A common cause might involve the specified file paths for icon
 Conclusion
 
 The Productivity Tracker Extension is a valuable asset for anyone looking to enhance their productivity. By leveraging modern web technologies and design principles, it provides users with the necessary tools to monitor, analyze, and improve their work habits effectively.
+
+#OUTPUT
+
+![WhatsApp Image 2025-06-25 at 16 39 20_2a5c245e](https://github.com/user-attachments/assets/f705ccd2-69fc-49a7-b53e-ba8abaae3b55)
+
